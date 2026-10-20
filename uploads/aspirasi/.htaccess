@@ -1,0 +1,5 @@
+# Folder ini hanya untuk gambar. Blokir eksekusi script apa pun.
+Options -Indexes
+<FilesMatch "\.(php|phtml|php3|php4|php5|php7|phps|phar|cgi|pl|py)$">
+    Require all denied
+</FilesMatch>
