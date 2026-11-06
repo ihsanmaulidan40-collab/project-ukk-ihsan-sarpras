@@ -52,8 +52,7 @@ Pengadaan_Sarpras_ihsan/
 
    | Role    | Username / NIS | Password      |
    |---------|-----------------|---------------|
-   | Admin   | `admin`         | `admin123`    |
-   | Petugas | `petugas`       | `petugas123`  |
+   | Admin   | `admin`         | `12345`    |
    | Siswa   | *(dibuat Admin lewat menu Data Siswa)* | *(diisi Admin saat membuat akun siswa)* |
 
    Segera ganti password default ini setelah login pertama kali.
